@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alireza Kafashha
 - 👨🏽‍💻 I’m Currently Studying Computer Science
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning AI
 - 📫 How to reach me: alireza.kafashha2003@gmail.com
 
 <!---
