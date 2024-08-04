@@ -13,7 +13,7 @@ I’m **Alireza Kafashha**, a Computer Science student with a deep passion for *
 
 ## 🚀 Current Focus
 
-I’m currently focused on leveraging AI and machine learning to tackle real-world challenges. My studies and projects are centered around applying innovative techniques and technologies to solve complex problems.
+I’m currently focused on learning AI and machine learning.
 
 ## 🛠️ Programming Languages
 
@@ -29,7 +29,7 @@ I’m currently focused on leveraging AI and machine learning to tackle real-wor
 
 ## 🌟 Get in Touch
 
-I’d love to connect with fellow professionals and enthusiasts. Reach out to me via [email](mailto:alireza.kafashha2003@gmail.com) or the LinkedIn logo above if you have any questions or collaboration opportunities!
+Reach out to me via [email](mailto:alireza.kafashha2003@gmail.com) or the LinkedIn logo above if you have any questions or collaboration opportunities!
 
 ---
 
