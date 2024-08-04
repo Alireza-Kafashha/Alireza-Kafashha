@@ -3,7 +3,10 @@
 I’m **Alireza Kafashha**, a Computer Science student with a deep passion for **Artificial Intelligence (AI)**. I am dedicated to exploring and developing cutting-edge solutions in this dynamic field.
 
 - **📧 Email:** [alireza.kafashha2003@gmail.com](mailto:alireza.kafashha2003@gmail.com)
-- **🔗 LinkedIn:** [linkedin.com/in/alireza-kafashha](https://www.linkedin.com/in/alireza-kafashha)
+- **🔗 LinkedIn:** 
+  <a href="https://www.linkedin.com/in/alireza-kafashha" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="LinkedIn" width="30"/>
+  </a>
 
 ## 🚀 Current Focus
 
@@ -23,7 +26,7 @@ I’m currently focused on leveraging AI and machine learning to tackle real-wor
 
 ## 🌟 Get in Touch
 
-I’d love to connect with fellow professionals and enthusiasts. Reach out to me via [email](mailto:alireza.kafashha2003@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alireza-kafashha) if you have any questions or collaboration opportunities!
+I’d love to connect with fellow professionals and enthusiasts. Reach out to me via [email](mailto:alireza.kafashha2003@gmail.com) or the LinkedIn logo above if you have any questions or collaboration opportunities!
 
 ---
 
