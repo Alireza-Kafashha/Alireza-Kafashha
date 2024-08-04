@@ -1,6 +1,6 @@
 # 👋 Welcome to Alireza Kafashha's GitHub Profile!
 
-I’m **Alireza Kafashha**, a Computer Science student with a deep passion for **Artificial Intelligence (AI)**. I am dedicated to exploring and developing cutting-edge solutions in this dynamic field.
+I’m **Alireza Kafashha**, a Computer Science student with a deep passion for **Artificial Intelligence (AI)**.
 
 - 
     <a href="mailto:alireza.kafashha2003@gmail.com" target="_blank">
