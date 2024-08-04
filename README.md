@@ -9,9 +9,9 @@ I’m currently focused on leveraging AI and machine learning to tackle real-wor
 
 Programming Languages
 
-![image](https://github.com/user-attachments/assets/8f978cf2-9472-45ac-8ccf-9b7552aba558)
+[![image](https://github.com/user-attachments/assets/8f978cf2-9472-45ac-8ccf-9b7552aba558)] (https://www.python.org/)
 
-![image](https://github.com/user-attachments/assets/45c49ce8-a7fb-4d87-9237-15d0a3f72e65)
+[![image](https://github.com/user-attachments/assets/45c49ce8-a7fb-4d87-9237-15d0a3f72e65)] (https://isocpp.org/)
 
 
 
