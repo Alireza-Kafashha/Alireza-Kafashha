@@ -2,11 +2,11 @@
 
 I’m **Alireza Kafashha**, a Computer Science student with a deep passion for **Artificial Intelligence (AI)**. I am dedicated to exploring and developing cutting-edge solutions in this dynamic field.
 
-- **📧 Email:**
+- 
     <a href="mailto:alireza.kafashha2003@gmail.com" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" width="30"/>
   </a>
-- **🔗 LinkedIn:** 
+- 
   <a href="https://www.linkedin.com/in/alireza-kafashha" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>
   </a>
